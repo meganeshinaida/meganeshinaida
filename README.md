@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there, I'm Megane Shinaïda 👋
 
-<!--
-**meganeshinaida/meganeshinaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Software Engineer passionate about building practical digital solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack — from designing interfaces and building APIs to working with databases, system architecture, and AI-powered applications.
+
+### 🚀 What I'm working with
+
+- 💻 Full-Stack Web & Mobile Development
+- 🤖 AI & AI-powered applications
+- 🏗️ Software Architecture & API Design
+- 🗄️ Databases & ORM technologies
+- 🎨 UI/UX & frontend development
+- 🔌 REST APIs & backend systems
+
+### 🛠️ Technologies
+
+**Languages**
+`JavaScript` `TypeScript` `Python` `Java` `C` `C++`
+
+**Frontend**
+`React` `Next.js` `React Native` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `Django` `Go`
+
+**Database & Tools**
+`PostgreSQL` `MongoDB` `Prisma` `Supabase` `Git` `GitHub` `Postman`
+
+**AI**
+`Python` `OpenAI APIs` `AI Agents` `Machine Learning`
+
+### 🌱 Currently learning
+
+I'm continuously improving my skills in:
+
+- Artificial Intelligence & AI Engineering
+- Software Architecture
+- Scalable backend systems
+- Cloud & deployment
+- Modern full-stack development
+
+### 💡 What I like building
+
+I’m particularly interested in building solutions around:
+
+- 🏦 FinTech
+- 🎓 EdTech
+- 🏥 HealthTech
+- 🤖 AI-powered applications
+- 📱 Web & Mobile platforms
+
+### 🤝 Let's collaborate
+
+I'm open to collaborating on interesting projects, open-source initiatives, and opportunities where I can learn, contribute, and build meaningful software.
+
+### 📫 Connect with me
+
+- 💼 LinkedIn: [Megane Shinaïda](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL
+- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+
+---
+
+> **"Build. Learn. Improve. Repeat."**
