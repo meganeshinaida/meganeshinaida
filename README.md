@@ -58,9 +58,9 @@ I'm open to collaborating on interesting projects, open-source initiatives, and 
 
 ### 📫 Connect with me
 
-- 💼 LinkedIn: [Megane Shinaïda](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: [Megane Shinaïda](https://www.linkedin.com/in/temfack-shinaida-megane-81b7ab293/)
+- 📧 Email: stemfackngnintedem@gmail.com
+- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://frontend-five-olive-zxpaglw7f6.vercel.app/)
 
 ---
 
