@@ -101,10 +101,10 @@ Open Source                 ███████████████░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/temfack-shinaida-megane-81b7ab293/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=google-chrome\&logoColor=white)](frontend-five-olive-zxpaglw7f6.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meganeshinaida)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:stemfackngnintedem@gmail.com)
 
 </div>
 
