@@ -64,29 +64,25 @@ I'm particularly interested in **FinTech, EdTech, HealthTech, and AI**.
 
 ## 📊 GitHub Stats
 
-<!-- These SVGs are regenerated every 6 hours by .github/workflows/profile-stats.yml -->
-
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meganeshinaida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
-
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" alt="Productive time"/>
+<img src="https://streak-stats.demolab.com?user=meganeshinaida&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 
 </div>
 
-## 🐍 Contribution Activity
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganeshinaida&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="160"/>
+
+</div>
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meganeshinaida/meganeshinaida/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meganeshinaida/meganeshinaida/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/meganeshinaida/meganeshinaida/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meganeshinaida&theme=tokyo-night&hide_border=true&area=true&custom_title=Megane's%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -106,7 +102,7 @@ Open Source                 ███████████████░░�
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/temfack-shinaida-megane-81b7ab293/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://frontend-five-olive-zxpaglw7f6.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=google-chrome\&logoColor=white)](frontend-five-olive-zxpaglw7f6.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meganeshinaida)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:stemfackngnintedem@gmail.com)
 
