@@ -8,7 +8,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm **Megane Shinaïda**, a Software Engineer passionate about building practical digital solutions that solve real-world problems.
+I'm **Megane Shinaïda Temfack**, a Software Engineer passionate about building practical digital solutions that solve real-world problems.
 
 I enjoy working across the stack — from designing user interfaces and building APIs to working with databases, software architecture, and AI-powered applications.
 
